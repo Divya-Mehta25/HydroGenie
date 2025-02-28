@@ -232,4 +232,3 @@ elif page == "Growth Report":
 
 # Footer
 st.write("---")
-st.write("Built with ❤️ using Streamlit. Happy growing! 🌿")
